@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.html",
+      "PackagePath": "staticwebassets\\halls.html"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.js",
+      "PackagePath": "staticwebassets\\halls.js"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\kinema.html",
+      "PackagePath": "staticwebassets\\kinema.html"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.html",
+      "PackagePath": "staticwebassets\\movies.html"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.js",
+      "PackagePath": "staticwebassets\\movies.js"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.html",
+      "PackagePath": "staticwebassets\\schedules.html"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.js",
+      "PackagePath": "staticwebassets\\schedules.js"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.html",
+      "PackagePath": "staticwebassets\\viewers.html"
+    },
+    {
+      "Id": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.js",
+      "PackagePath": "staticwebassets\\viewers.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CINEMA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CINEMA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CINEMA.props",
+      "PackagePath": "build\\CINEMA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CINEMA.props",
+      "PackagePath": "buildMultiTargeting\\CINEMA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CINEMA.props",
+      "PackagePath": "buildTransitive\\CINEMA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

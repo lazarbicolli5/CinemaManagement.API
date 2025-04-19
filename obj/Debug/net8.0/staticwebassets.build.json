@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "r+dem3ER2b5mqMH9MLUUkjXjE/14whRx/e4WRm+GPaw=",
+  "Source": "CINEMA",
+  "BasePath": "_content/CINEMA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CINEMA\\wwwroot",
+      "Source": "CINEMA",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.html",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "halls#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bg1n64gobp",
+      "Integrity": "G70K9ZQJsmIE4iMRu9HR6ek7+IFfuWllU+V7BsEqAN4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\halls.html"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.js",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "halls#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oh8phpxnas",
+      "Integrity": "PHzyHd2i05BbcpeohqMjxZ0n5sxs+rKJlG7ijMN9lkA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\halls.js"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\index.html",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kofz9vpuoa",
+      "Integrity": "3DByPZTISdmsVr+rNdDAWHoxRjhoch3FJpPY3NOgyXU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\kinema.html",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "kinema#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "exudxt7qpe",
+      "Integrity": "Lt1GSxZtH2m18N5bR5QdH5odJkBsR9BfXxIsqqiWYhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\kinema.html"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.html",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "movies#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wovfk5b950",
+      "Integrity": "0PkjD1BGkCCx5x0GehGbgzPAdeRRXQYu7EBd9KHlO0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies.html"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.js",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "movies#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ec0j2jpplu",
+      "Integrity": "fsbEw3BcWOYf6I+qtbLJF3W4X9TiDo9OVfCV04EwWVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies.js"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.html",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "schedules#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t9voxaztfh",
+      "Integrity": "UU0pCSan4XhsRP3aQW2Mn7nedX9vf32kLLMuv7sIk+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\schedules.html"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.js",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "schedules#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "owi84bovor",
+      "Integrity": "SB7nGQTYaGSVZLVk9RO7rG/1URl2rwP8FzDvnQ1HRZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\schedules.js"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\styles.css",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lb1lke1u5c",
+      "Integrity": "8RWU2Ja7WVQcbYbkjUNKpXUiUrA/xOLFmGTna6m+Dr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.html",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "viewers#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkpyar5uq4",
+      "Integrity": "+xsZHsk1zFUVQiKF0vxufkcsaMWuruoRFolfdjFIwEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\viewers.html"
+    },
+    {
+      "Identity": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.js",
+      "SourceId": "CINEMA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\",
+      "BasePath": "_content/CINEMA",
+      "RelativePath": "viewers#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ncrqv63zb",
+      "Integrity": "PTH0xjl4DznkEbVPYUdGuIU+LiMny6b0v/SohxxKWCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\viewers.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "halls.bg1n64gobp.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G70K9ZQJsmIE4iMRu9HR6ek7+IFfuWllU+V7BsEqAN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 15:44:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bg1n64gobp"
+        },
+        {
+          "Name": "label",
+          "Value": "halls.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G70K9ZQJsmIE4iMRu9HR6ek7+IFfuWllU+V7BsEqAN4="
+        }
+      ]
+    },
+    {
+      "Route": "halls.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G70K9ZQJsmIE4iMRu9HR6ek7+IFfuWllU+V7BsEqAN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 15:44:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G70K9ZQJsmIE4iMRu9HR6ek7+IFfuWllU+V7BsEqAN4="
+        }
+      ]
+    },
+    {
+      "Route": "halls.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PHzyHd2i05BbcpeohqMjxZ0n5sxs+rKJlG7ijMN9lkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 16:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PHzyHd2i05BbcpeohqMjxZ0n5sxs+rKJlG7ijMN9lkA="
+        }
+      ]
+    },
+    {
+      "Route": "halls.oh8phpxnas.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\halls.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PHzyHd2i05BbcpeohqMjxZ0n5sxs+rKJlG7ijMN9lkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 16:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oh8phpxnas"
+        },
+        {
+          "Name": "label",
+          "Value": "halls.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PHzyHd2i05BbcpeohqMjxZ0n5sxs+rKJlG7ijMN9lkA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3DByPZTISdmsVr+rNdDAWHoxRjhoch3FJpPY3NOgyXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3DByPZTISdmsVr+rNdDAWHoxRjhoch3FJpPY3NOgyXU="
+        }
+      ]
+    },
+    {
+      "Route": "index.kofz9vpuoa.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3DByPZTISdmsVr+rNdDAWHoxRjhoch3FJpPY3NOgyXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kofz9vpuoa"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3DByPZTISdmsVr+rNdDAWHoxRjhoch3FJpPY3NOgyXU="
+        }
+      ]
+    },
+    {
+      "Route": "kinema.exudxt7qpe.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\kinema.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lt1GSxZtH2m18N5bR5QdH5odJkBsR9BfXxIsqqiWYhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:25:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exudxt7qpe"
+        },
+        {
+          "Name": "label",
+          "Value": "kinema.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lt1GSxZtH2m18N5bR5QdH5odJkBsR9BfXxIsqqiWYhk="
+        }
+      ]
+    },
+    {
+      "Route": "kinema.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\kinema.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lt1GSxZtH2m18N5bR5QdH5odJkBsR9BfXxIsqqiWYhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:25:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lt1GSxZtH2m18N5bR5QdH5odJkBsR9BfXxIsqqiWYhk="
+        }
+      ]
+    },
+    {
+      "Route": "movies.ec0j2jpplu.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fsbEw3BcWOYf6I+qtbLJF3W4X9TiDo9OVfCV04EwWVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:28:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ec0j2jpplu"
+        },
+        {
+          "Name": "label",
+          "Value": "movies.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fsbEw3BcWOYf6I+qtbLJF3W4X9TiDo9OVfCV04EwWVQ="
+        }
+      ]
+    },
+    {
+      "Route": "movies.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0PkjD1BGkCCx5x0GehGbgzPAdeRRXQYu7EBd9KHlO0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:28:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0PkjD1BGkCCx5x0GehGbgzPAdeRRXQYu7EBd9KHlO0I="
+        }
+      ]
+    },
+    {
+      "Route": "movies.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fsbEw3BcWOYf6I+qtbLJF3W4X9TiDo9OVfCV04EwWVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:28:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fsbEw3BcWOYf6I+qtbLJF3W4X9TiDo9OVfCV04EwWVQ="
+        }
+      ]
+    },
+    {
+      "Route": "movies.wovfk5b950.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0PkjD1BGkCCx5x0GehGbgzPAdeRRXQYu7EBd9KHlO0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:28:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wovfk5b950"
+        },
+        {
+          "Name": "label",
+          "Value": "movies.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0PkjD1BGkCCx5x0GehGbgzPAdeRRXQYu7EBd9KHlO0I="
+        }
+      ]
+    },
+    {
+      "Route": "schedules.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UU0pCSan4XhsRP3aQW2Mn7nedX9vf32kLLMuv7sIk+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 16:19:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UU0pCSan4XhsRP3aQW2Mn7nedX9vf32kLLMuv7sIk+g="
+        }
+      ]
+    },
+    {
+      "Route": "schedules.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SB7nGQTYaGSVZLVk9RO7rG/1URl2rwP8FzDvnQ1HRZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 16:28:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SB7nGQTYaGSVZLVk9RO7rG/1URl2rwP8FzDvnQ1HRZk="
+        }
+      ]
+    },
+    {
+      "Route": "schedules.owi84bovor.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SB7nGQTYaGSVZLVk9RO7rG/1URl2rwP8FzDvnQ1HRZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 16:28:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "owi84bovor"
+        },
+        {
+          "Name": "label",
+          "Value": "schedules.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SB7nGQTYaGSVZLVk9RO7rG/1URl2rwP8FzDvnQ1HRZk="
+        }
+      ]
+    },
+    {
+      "Route": "schedules.t9voxaztfh.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\schedules.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UU0pCSan4XhsRP3aQW2Mn7nedX9vf32kLLMuv7sIk+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 16:19:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t9voxaztfh"
+        },
+        {
+          "Name": "label",
+          "Value": "schedules.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UU0pCSan4XhsRP3aQW2Mn7nedX9vf32kLLMuv7sIk+g="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RWU2Ja7WVQcbYbkjUNKpXUiUrA/xOLFmGTna6m+Dr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 13:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RWU2Ja7WVQcbYbkjUNKpXUiUrA/xOLFmGTna6m+Dr4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.lb1lke1u5c.css",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RWU2Ja7WVQcbYbkjUNKpXUiUrA/xOLFmGTna6m+Dr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 13:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lb1lke1u5c"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RWU2Ja7WVQcbYbkjUNKpXUiUrA/xOLFmGTna6m+Dr4="
+        }
+      ]
+    },
+    {
+      "Route": "viewers.7ncrqv63zb.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PTH0xjl4DznkEbVPYUdGuIU+LiMny6b0v/SohxxKWCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 15:34:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ncrqv63zb"
+        },
+        {
+          "Name": "label",
+          "Value": "viewers.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PTH0xjl4DznkEbVPYUdGuIU+LiMny6b0v/SohxxKWCA="
+        }
+      ]
+    },
+    {
+      "Route": "viewers.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xsZHsk1zFUVQiKF0vxufkcsaMWuruoRFolfdjFIwEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 15:43:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xsZHsk1zFUVQiKF0vxufkcsaMWuruoRFolfdjFIwEg="
+        }
+      ]
+    },
+    {
+      "Route": "viewers.js",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PTH0xjl4DznkEbVPYUdGuIU+LiMny6b0v/SohxxKWCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 15:34:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PTH0xjl4DznkEbVPYUdGuIU+LiMny6b0v/SohxxKWCA="
+        }
+      ]
+    },
+    {
+      "Route": "viewers.rkpyar5uq4.html",
+      "AssetFile": "C:\\Users\\lazar\\OneDrive\\Desktop\\Cinemai ndryshuar 3\\CINEMA\\wwwroot\\viewers.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xsZHsk1zFUVQiKF0vxufkcsaMWuruoRFolfdjFIwEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 15:43:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkpyar5uq4"
+        },
+        {
+          "Name": "label",
+          "Value": "viewers.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xsZHsk1zFUVQiKF0vxufkcsaMWuruoRFolfdjFIwEg="
+        }
+      ]
+    }
+  ]
+}
